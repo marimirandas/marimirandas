@@ -20,6 +20,4 @@
 
 🎓 Faço faculdade de Análise e Desenvolvimento de Sistemas
 
-📚 Aluna da Alura
-
 💡Estarei compartilhando em breve os meus projetos que desenvolvi dentro e fora da faculdade
