@@ -16,6 +16,6 @@
 ## Sobre mim
 📊 Atualmente trabalho como Assistente Financeiro
 
-🎓 Faço faculdade de Análise e Desenvolvimento de Sistemas
+🎓 Faço faculdade de Engenharia de Software 
 
 💡Estarei compartilhando em breve os meus projetos que desenvolvi dentro e fora da faculdade
